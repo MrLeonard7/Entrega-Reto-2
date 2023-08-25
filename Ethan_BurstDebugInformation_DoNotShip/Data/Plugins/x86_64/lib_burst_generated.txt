@@ -135,7 +135,7 @@ Library: C:\Users\Administrator\Reto 2v.1\Temp\StagingArea\Data\Plugins\x86_64\l
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --compilation-defines=ENABLE_URP
---linker-options=PdbAltPath="Reto 2v.1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Ethan_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Administrator\Reto 2v.1\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
@@ -294,7 +294,7 @@ Library: C:\Users\Administrator\Reto 2v.1\Temp\StagingArea\Data\Plugins\x86_64\l
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --compilation-defines=ENABLE_URP
---linker-options=PdbAltPath="Reto 2v.1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Ethan_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Administrator\Reto 2v.1\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2021.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
